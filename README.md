@@ -15,6 +15,7 @@ Future plans:
 
 Code breakdown:
 The list of .v modules is: 
+
 GC_PollGen.v - Generates the pulses read by a Gamecube controller to indicate the buttons being pressed.
 
 GCC_Data.v - Analyzes the pulses from the Gamecube controller to indicate the status of all buttons, joysticks, and analog triggers.
