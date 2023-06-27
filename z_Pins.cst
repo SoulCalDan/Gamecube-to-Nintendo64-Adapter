@@ -1,0 +1,22 @@
+IO_LOC  "line_GC1" 25;
+
+IO_LOC  "line_GC2" 26;
+
+IO_LOC  "line_GC3" 27;
+
+IO_LOC  "line_GC4" 28;
+
+IO_LOC  "line_N1" 57;
+IO_PORT "line_N1" PULL_MODE=UP;
+
+IO_LOC  "line_N2" 56;
+IO_PORT "line_N2" PULL_MODE=UP;
+
+IO_LOC  "line_N3" 55;
+IO_PORT "line_N3" PULL_MODE=UP;
+
+IO_LOC  "line_N4" 54;
+IO_PORT "line_N4" PULL_MODE=UP;
+
+IO_LOC  "clk" 52;
+IO_PORT "clk" PULL_MODE=UP;
